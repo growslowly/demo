@@ -1,0 +1,30 @@
+body {
+  padding: 10px;
+  font-family: "Lexend", sans-serif;
+  font-size: 1.8rem;
+  color: #2ec4b6;
+}
+
+h1 {
+  padding: 10px;
+  color: #495057;
+  background-color: #cbf3f0;
+  border: 6px solid #2ec4b6;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  padding: 10px;
+  color: #2ec4b6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff9f1c;
+}
